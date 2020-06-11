@@ -1,4 +1,4 @@
 # SQ6
 
 - [Resources](RESOURCES.md)
-- [Notes](NOTES.md)
+- [Notes & to-do list](NOTES.md)
